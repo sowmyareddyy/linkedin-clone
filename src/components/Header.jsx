@@ -28,7 +28,7 @@ export default function Header() {
       >
         <Avatar
           src="https://media.stockimg.ai/image/v2/JnYKpVpHMwsu.png"
-          sx={{ width: 100, height: 100, border: "3px solid white" }}
+          sx={{ width: 100, height: 100, border: "3px" }}
         />
         <Box>
           <Typography variant="h6">Sowmya Reddy Vangooru ✅</Typography>
