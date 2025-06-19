@@ -9,7 +9,7 @@ export default function Header() {
         sx={{
           height: 200,
           backgroundImage:
-            "url('https://media.licdn.com/dms/image/D4D16AQFvT8wTnHuZxg/profile-displaybackgroundimage-shrink_200_800/0/1709307509682?e=1722470400&v=beta&t=hmnhDJxylKVdzUAWsnJdyVnKHTYXKiqZehBY8N7cHtI')",
+            "url('https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg?semt=ais_hybrid&w=740')",
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
