@@ -23,14 +23,14 @@ export default function Header() {
           gap: 2,
           p: 2,
           mt: -7,
-         
+          backgroundColor: "white",
         }}
       >
         <Avatar
           src="https://media.stockimg.ai/image/v2/JnYKpVpHMwsu.png"
-          sx={{ width: 100, height: 100, border: "3px" }}
+          sx={{ width: 100, height: 100, border: "3px solid white" }}
         />
-       <Box>
+        <Box>
           <Typography variant="h6">Sowmya Reddy Vangooru ✅</Typography>
           <Typography variant="body2" color="text.secondary">
             Undergrad at Anurag University
@@ -41,9 +41,8 @@ export default function Header() {
           <Typography variant="body2" color="text.secondary">
             261 followers · 257 connections
           </Typography>
-  </Box>
+        </Box>
       </Box>
-
       {/* Buttons */}
       <Box sx={{ display: "flex", gap: 1, px: 2, pb: 2, backgroundColor: "white" }}>
         <Button variant="contained" size="small">Open to</Button>
