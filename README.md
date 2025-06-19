@@ -1,12 +1,11 @@
 
-```markdown
 # 💼 LinkedIn Profile Clone
+
 [![Deploy with Vercel](https://vercel.com/button)](https://linkedin-clone-gules-nine.vercel.app/)
 
 A responsive and interactive **LinkedIn profile UI clone** built with **React** and **Material-UI**, showcasing personal profile sections, activity feeds, and clean layout — designed to closely match the real LinkedIn profile experience.
 
 > 🔗 **Live Preview:** [https://linkedin-clone-gules-nine.vercel.app/](https://linkedin-clone-gules-nine.vercel.app/)
-
 
 ---
 
@@ -105,7 +104,7 @@ All components are:
 * Written with **clear inline comments**
 * Easy to scale or modify
 
-Example (inside `Profile.jsx`):
+### Example (inside `Profile.jsx`):
 
 ```jsx
 // Handles profile name editing toggle
@@ -125,26 +124,18 @@ const [isEditing, setIsEditing] = useState(false);
 
 > 🔗 **Live Preview:** [https://linkedin-clone-gules-nine.vercel.app/](https://linkedin-clone-gules-nine.vercel.app/)
 
-## 🙋‍♀️ Author
+---
+
+##  Author
 
 **V Sowmya Reddy**
 📍 Hyderabad, India
 🎓 Undergrad @ Anurag University
-🔗 [LinkedIn]((https://www.linkedin.com/in/sowmyareddyvangooru/))
-
----
+🔗 [LinkedIn](https://www.linkedin.com/in/sowmyareddyvangooru/)
 
 ## 📄 License
 
 This project is for educational/demo purposes only.
 
 ```
-
----
-
-### ✅ What to Do Now?
-
-1. Create a file named `README.md` in the root of your project  
-2. Paste this entire code  
-3. Save → Push to GitHub
 
