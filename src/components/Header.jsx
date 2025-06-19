@@ -30,7 +30,7 @@ export default function Header() {
           src="https://media.stockimg.ai/image/v2/JnYKpVpHMwsu.png"
           sx={{ width: 100, height: 100, border: "3px" }}
         />
-       
+       <Box>
           <Typography variant="h6">Sowmya Reddy Vangooru ✅</Typography>
           <Typography variant="body2" color="text.secondary">
             Undergrad at Anurag University
@@ -41,7 +41,7 @@ export default function Header() {
           <Typography variant="body2" color="text.secondary">
             261 followers · 257 connections
           </Typography>
-  
+  </Box>
       </Box>
 
       {/* Buttons */}
