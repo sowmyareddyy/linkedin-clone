@@ -23,7 +23,7 @@ export default function Header() {
           gap: 2,
           p: 2,
           mt: -7,
-          backgroundColor: "white",
+         
         }}
       >
         <Avatar
