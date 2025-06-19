@@ -27,7 +27,7 @@ export default function Header() {
         }}
       >
         <Avatar
-          src="https://media.licdn.com/dms/image/D4D03AQGcWnoeGlYTrw/profile-displayphoto-shrink_200_200/0/1688379787478?e=1722470400&v=beta&t=f6XOxTFr_vD5e4ayLPt4hESsKNfwkGxa3TAkmxuVvfc"
+          src="https://media.stockimg.ai/image/v2/JnYKpVpHMwsu.png"
           sx={{ width: 100, height: 100, border: "3px solid white" }}
         />
         <Box>
